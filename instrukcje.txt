@@ -1,0 +1,13 @@
+1. Pobieramy xamppa.
+2. Umieszczamy folder projektu w katalogu htdocs xamppa.
+3. Uruchamiamy w panelu kontrolnym xamppa Apache i MySQL.
+4. Wchodzimy w przeglądarce (najlepiej Chrome) pod adres http://localhost/phpmyadmin/.
+5. Tworzymy nową bazę danych o nazwie meskiezegarkinareke.
+6. Pobieramy PHP 8.2, Node.js, npm oraz composer.
+7. Uruchamiamy konsolę systemową cmd i wchodzimy w niej do katalogu głównego projektu meskie-zegarki-na-reke.
+8. Uruchamiamy polecenie npm install (jeżeli nie działa to zainstalować potrzebne rzeczy z komunikatu i dodać do zmiennej systemowej PATH w ostateczności szukać rozwiązania w internecie dopóki to polecenie nie zadziała).
+9. Uruchamiamy polecenie composer install (sytuacja jak poprzednio).
+10. Uruchamiamy polecenie php artisan migrate (sytuacja jak poprzednio).
+11. Uruchamiamy polecenie php artisan serve (sytuacja jak poprzednio).
+12. Wchodzimy pod adres http://localhost:8000/ (chyba że w kroku 10 wyświetlony w konsoli zostanie inny, ale to będzie raczej ten port).
+13. Możemy już poruszać się po serwisie.

@@ -1,0 +1,53 @@
+button[type="submit"].btn.btn-primary
+{
+    background-color: #ffc800;
+    border: #ffc800;
+}
+button[type="submit"].btn.btn-primary:hover
+{
+    background-color: #d9aa00;
+    border: #cca000;
+}
+button[type="submit"].btn.btn-primary:active, button[type="submit"].btn.btn-primary:focus, button[type="submit"].btn.btn-primary:active:focus
+{
+    background-color: #cca000;
+    border: #bf9600;
+}
+@media (min-width: 992px) {
+    #mainNav {
+        background-color: #000000;
+    }
+    main {
+        margin-top: 105px;
+    }
+}
+@media (min-width: 363px) and (max-width: 991px) {
+    main {
+        margin-top: 85px;
+    }
+}
+@media (max-width: 362px) {
+    main {
+        margin-top: 123px;
+    }
+}
+#dropDownWyloguj {
+    background-color: #ffc800;
+    border: #ffc800;
+}
+#dropDownWyloguj a {
+    background-color: #ffc800;
+    border: #ffc800;
+}
+a.btn.btn-primary {
+    background-color: #ffc800;
+    border: #ffc800;
+}
+a.btn.btn-primary:hover {
+    background-color: #d9aa00;
+    border: #cca000;
+}
+a.btn.btn-primary:active, a.btn.btn-primary:focus, a.btn.btn-primary:active:focus {
+    background-color: #cca000;
+    border: #bf9600;
+}

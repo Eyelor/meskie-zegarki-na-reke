@@ -1,0 +1,53 @@
+.lightbox {
+    transform: translate(0%, 50%);
+}
+#galeria a {
+    width: 100%;
+    height: auto;
+    filter: brightness(100%);
+    transition: filter ease-in-out 0.25s;
+}
+#galeria a:hover {
+    filter: brightness(50%);
+}
+#galeria img {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.5);
+}
+@media (min-width: 992px) {
+    #galeria a[data-title="1"], #galeria a[data-title="2"], #galeria a[data-title="3"], #galeria a[data-title="4"], #galeria a[data-title="5"], #galeria a[data-title="6"], #galeria a[data-title="7"], #galeria a[data-title="8"], #galeria a[data-title="9"] {
+        float: none;
+    }
+    #galeria a[data-title="1"], #galeria a[data-title="4"], #galeria a[data-title="7"] {
+        clear: both;
+        float: left;
+    }
+    #galeria a[data-title="2"], #galeria a[data-title="3"], #galeria a[data-title="5"], #galeria a[data-title="6"], #galeria a[data-title="8"], #galeria a[data-title="9"] {
+        float: left;
+    }
+    #galeria a {
+        width: 33%;
+        height: auto;
+    }
+}
+@media ((min-width: 768px) and (max-width: 991px)) {
+    #galeria a[data-title="1"], #galeria a[data-title="2"], #galeria a[data-title="3"], #galeria a[data-title="4"], #galeria a[data-title="5"], #galeria a[data-title="6"], #galeria a[data-title="7"], #galeria a[data-title="8"], #galeria a[data-title="9"] {
+        float: none;
+    }
+    #galeria a[data-title="1"], #galeria a[data-title="3"], #galeria a[data-title="5"], #galeria a[data-title="7"] {
+        clear: both;
+        float: left;
+    }
+    #galeria a[data-title="2"], #galeria a[data-title="4"], #galeria a[data-title="6"], #galeria a[data-title="8"] {
+        float: left;
+    }
+    #galeria a {
+        width: 50%;
+        height: auto;
+    }
+    #galeria a[data-title="9"] {
+        width: 100%;
+        height: auto;
+    }
+}

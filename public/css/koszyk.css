@@ -1,0 +1,16 @@
+#usun {
+    margin: 0 auto;
+}
+@media (min-width: 992px) {
+    #mainNav {
+        background-color: #000000;
+    }
+    body {
+        padding-top: 22px;
+    }
+}
+@media (max-width: 379px) {
+    body {
+        padding-top: 38.5px;
+    }
+}

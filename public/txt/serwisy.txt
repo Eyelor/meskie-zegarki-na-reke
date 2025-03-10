@@ -1,0 +1,6 @@
+<h4 class="text-center">Użyte serwisy</h4>
+<h5>Źródła:</h5>
+<ul>
+    <li><a href="https://www.alphavantage.co/" target="_blank">API akcji Alpha Ventage</a></li>
+    <li><a href="https://developers.google.com/maps?hl=pl" target="_blank">API Google Maps Platform</a></li>
+</ul>

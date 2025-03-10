@@ -1,0 +1,25 @@
+#mapka {
+    position: relative;
+    width: 80%;
+    padding-bottom: 45%;
+    margin: 0 auto;
+}
+@media (min-width: 992px) {
+    #mainNav {
+        background-color: #000000;
+    }
+    body {
+        padding-top: 22px;
+    }
+}
+@media (max-width: 991px) {
+    #mapka {
+        width: 100%;
+        padding-bottom: 56.25%;
+    }
+}
+@media (max-width: 362px) {
+    body {
+        padding-top: 38.5px;
+    }
+}

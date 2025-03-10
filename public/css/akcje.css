@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+tr:hover {
+    background-color: #e6e6e6;
+}
+@media (min-width: 992px) {
+    #mainNav {
+        background-color: #000000;
+    }
+    body {
+        padding-top: 22px;
+    }
+}
+@media (max-width: 362px) {
+    body {
+        padding-top: 38.5px;
+    }
+}

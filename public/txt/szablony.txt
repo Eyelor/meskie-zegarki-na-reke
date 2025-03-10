@@ -1,0 +1,6 @@
+<h4 class="text-center">Użyte szablony</h4>
+<h5>Źródła:</h5>
+<ul>
+    <li><a href="https://startbootstrap.com/theme/agency" target="_blank">Szablon bootstrap Agency</a></li>
+    <li><a href="https://lokeshdhakar.com/projects/lightbox2/" target="_blank">Szablon galerii zdjęć Lightbox</a></li>
+</ul>

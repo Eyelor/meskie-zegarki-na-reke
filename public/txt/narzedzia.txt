@@ -1,0 +1,12 @@
+<h4 class="text-center">Użyte narzędzia</h4>
+<h5>Źródła:</h5>
+<ul>
+    <li><a href="https://fontawesome.com/icons" target="_blank">Font Awesome wyszukiwarka ikonek</a></li>
+    <li><a href="https://blog.jquery.com/2022/12/20/jquery-3-6-3-released-a-quick-selector-fix/" target="_blank">biblioteka jQuery 3.6.3</a></li>
+    <li><a href="https://code.visualstudio.com/" target="_blank">Środowisko Visual Studio Code</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">Visual Studio Code Live Server</a></li>
+    <li><a href="https://inkscape.org/" target="_blank">Inkscape</a></li>
+    <li><a href="https://zyro.com/pl/narzedzia/generator-polityki-prywatnosci" target="_blank">Generator polityki prywatności</a></li>
+    <li><a href="https://zyro.com/pl/narzedzia/generator-regulaminu" target="_blank">Generator regulaminu</a></li>
+    <li><a href="https://laravel.com/" target="_blank">Framework Laravel</a></li>
+</ul>

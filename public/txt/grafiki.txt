@@ -1,0 +1,29 @@
+<h4 class="text-center">Użyte grafiki</h4>
+<h5>Źródła:</h5>
+<ul>
+    <li><a href="https://icons8.com/icon/YxygWLiOhZbk/watches-front-view" target="_blank">favicon.png</a></li>
+    <li><a href="https://www.pexels.com/photo/time-watch-clock-hours-9352/" target="_blank">clock1.jpg</a></li>
+    <li><a href="https://pixabay.com/pl/photos/czas-zegar-t%c5%82o-zegarek-na-r%c4%99k%c4%99-3076138/" target="_blank">clock2.jpg</a></li>
+    <li><a href="https://pixabay.com/pl/photos/zegarek-na-r%c4%99k%c4%99-zegar-3072760/" target="_blank">clock3.jpg</a></li>
+    <li><a href="https://pixabay.com/pl/photos/czas-zegar-t%c5%82o-zegarek-na-r%c4%99k%c4%99-3090387/" target="_blank">clock4.jpg</a></li>
+    <li><a href="https://unsplash.com/photos/IxFjSPBzyM4" target="_blank">kontakt-bg.jpg</a></li>
+    <li><a href="https://fabrykazegarkow.pl/media/wysiwyg/blog2021/luty_2021/cache/1_zegarek-meski-carl-von-zeyten-tarcza-gilosz-lifestyle-2.jpg" target="_blank">galeria/zegarek1.jpg</a></li>
+    <li><a href="https://ki24.info/upload/2021/lorus_zegarek_na_brazowym_pasku_.jpg" target="_blank">galeria/zegarek2.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/descriptionModuleCreator/manufaction/TW2R36100_zegarki_timex_damskie-20230327132449I20.jpg.webp?width=600" target="_blank">galeria/zegarek3.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/zegarek-meski-lorus-fashion-rt367hx9-7.jpg.webp?width=1200&quality=80&sharpen=50" target="_blank">galeria/zegarek4.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/zegarek-z-chronograf--p67-officer-pro-ts-109463-8.jpg.webp?width=1200&quality=80&sharpen=50" target="_blank">galeria/zegarek5.jpg</a></li>
+    <li><a href="https://m.wm.pl/2021/12/orig/szwajcarskie-zegarki-atlantic-798026.jpg" target="_blank">galeria/zegarek6.jpg</a></li>
+    <li><a href="https://streichdesign.pl/wp-content/uploads/2020/10/zegarek-damski-aerowatch-1942-44960-aa10-2-1.jpg" target="_blank">galeria/zegarek7.jpg</a></li>
+    <li><a href="https://odczasudoczasu.pl/wp-content/uploads/Unorganized/005_alpina_odporna_na_wszystko-768x576.jpg" target="_blank">galeria/zegarek8.jpg</a></li>
+    <li><a href="https://img.twa.nl/39299158?watermark=none" target="_blank">galeria/zegarek9.jpg</a></li>
+    <li><a href="https://blog.atome.hk/wp-content/uploads/2021/08/DIESEL-DZ7414-1-3195425691-1630389480256.jpg" target="_blank">oferta/1.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/meskizegarek-adriatica-bransoleta-a1274.1113qf-bransoleta-3.jpg.webp?width=1200&quality=80&sharpen=50" target="_blank">oferta/2.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/zegarek-lorus-rt359jx9-meski-z-tachometr-sportowe-3.jpg.webp?width=1200&quality=80&sharpen=50" target="_blank">oferta/3.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/m%C4%99ski-zegarek-casio-g-shock-mudmaster-gwg-2000.jpg.webp?width=1200&quality=80&sharpen=50" target="_blank">oferta/4.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/Zegarki%20Daniel%20Wellington%20na%20pasku%20%201.jpg" target="_blank">oferta/5.jpg</a></li>
+    <li><a href="https://static.zegarek.net/imageslib/inne/zegarek-klasyczny-tommy-hilfiger-meskie-1710418-4.jpg.webp?width=1200&quality=80&sharpen=50" target="_blank">oferta/6.jpg</a></li>
+    <li><a href="https://s3-media0.fl.yelpcdn.com/bphoto/rMHXWhC-jstw6VRobps7Ew/l.jpg" target="_blank">o-nas/1.jpg</a></li>
+    <li><a href="https://cdn.localdatacdn.com/nc/durham/3082874/small/itpSiTDjTA.jpg" target="_blank">o-nas/2.jpg</a></li>
+    <li><a href="https://img.gumtree.co.za/api/v1/za-ads/images/85/85be17b7-6458-49b0-87db-36d7195e7300?rule=s-I72.auto" target="_blank">o-nas/3.jpg</a></li>
+    <li><a href="https://cdn-japantimes.com/wp-content/uploads/2013/04/fl20130421x3a.jpg" target="_blank">o-nas/4.jpg</a></li>
+</ul>
