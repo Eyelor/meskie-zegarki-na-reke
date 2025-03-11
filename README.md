@@ -38,6 +38,22 @@
 
 "Męskie Zegarki Na Rękę" is a web application project built using Laravel, Blade, JavaScript and Bootstrap. It streamlines the development process via Composer and Artisan, ensuring consistent dependency management and simplified deployment.  The target audience is developers and potentially end-users purchasing watches online.
 
+![Welcome](./screenshots/welcome.jpg)
+![About](./screenshots/about.jpg)
+![Services](./screenshots/services.jpg)
+![Offer](./screenshots/offer.jpg)
+![Offer Description](./screenshots/offer-description.jpg)
+![Contact](./screenshots/contact.jpg)
+![Registration](./screenshots/registration.jpg)
+![Login](./screenshots/login.jpg)
+![Orders Empty](./screenshots/orders-empty.jpg)
+![Cart](./screenshots/cart.jpg)
+![Orders](./screenshots/orders.jpg)
+![Orders Edit](./screenshots/orders-edit.jpg)
+![Order Edit](./screenshots/order-edit.jpg)
+![Gallery](./screenshots/gallery.jpg)
+![Informations](./screenshots/informations.jpg)
+
 ---
 
 ##  Features
