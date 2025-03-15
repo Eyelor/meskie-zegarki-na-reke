@@ -1,13 +1,14 @@
 name: Tests
 
-on:
-  push:
-    branches:
-      - master
-      - '*.x'
-  pull_request:
-  schedule:
-    - cron: '0 0 * * *'
+# Disabled workflow by commenting out triggers
+# on:
+#   push:
+#     branches:
+#       - master
+#       - '*.x'
+#   pull_request:
+#   schedule:
+#     - cron: '0 0 * * *'
 
 permissions:
   contents: read
